@@ -73,7 +73,7 @@ object PekkoQuickstart extends App {
   //#actor-system
 
   //#main-send-messages
-  greeterMain ! SayHello("Charles")
+  greeterMain ! SayHello("Omar")
   //#main-send-messages
 }
 //#main-class
